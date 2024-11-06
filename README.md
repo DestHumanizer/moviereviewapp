@@ -7,3 +7,8 @@ NOTE: the "movie-review" actual name is "movie-service"
 Database Structure:
 
 https://drive.google.com/file/d/1dNke7BK7Iava-1GTESYsuUUCvPKh6jfx/view?usp=sharing
+
+
+Documentation in YAML format (Open each file with Swagger editor)
+
+https://drive.google.com/drive/folders/1Zaq1oBTpxd_GFkz5nzc6VB_FgmD_KT4b?usp=sharing
